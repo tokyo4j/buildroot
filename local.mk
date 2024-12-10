@@ -1,0 +1,1 @@
+GLIBC_OVERRIDE_SRCDIR=../glibc
